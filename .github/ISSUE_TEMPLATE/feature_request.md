@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-# ISSUE 🛠️ : 
+# 이슈 내용🛠️ : 
 
-## DESCRIPTION ✍🏻
+## 상세 내용 ✍🏻
 
-## TODO ✔️
+## 체크리스트✔️
 
 - [ ] todo
 - [ ] todo
